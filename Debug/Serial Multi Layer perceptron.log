@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\conor\source\repos\serial multi layer perceptron\serial multi layer perceptron\source.cpp(144): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Serial Multi Layer perceptron.vcxproj -> C:\Users\Conor\source\repos\Serial Multi Layer perceptron\Debug\Serial Multi Layer perceptron.exe
